@@ -1,5 +1,8 @@
 import pandas as pd
 import numpy as np
+
+# INTRODUCTION TO PANDAS
+# Explore, clean and process your data
 # OBJECT CREATION
 
 # creating a series by passing a list of values.
